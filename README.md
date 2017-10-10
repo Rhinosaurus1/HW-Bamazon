@@ -21,3 +21,5 @@ If there is not enough product it stock, the purchase is denied and user prompte
 ![Image of bamazonCustomer.js purchase approved](https://github.com/Rhinosaurus1/HW-Bamazon/blob/master/images/bamazon-3.PNG)
 
 ![Image of bamazonCustomer.js purchase denied](https://github.com/Rhinosaurus1/HW-Bamazon/blob/master/images/bamazon-4.PNG)
+
+![Image of bamazonCustomer.js purchase denied](https://github.com/Rhinosaurus1/HW-Bamazon/blob/master/images/bamazon-mySQL.PNG)
